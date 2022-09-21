@@ -1,0 +1,46 @@
+# CURSO DIO 
+
+## NOÇÕES BÁSICAS DE GIT E GITHUB :man_technologist:
+
+
+
+### _1 AULA_
+
+- O QUE É GIT 
+- COMANDOS
+
+
+
+### _2 AULA_
+
+- CRIPTOGRAFIA SHA1
+- BLOBS TREES E COMMIT 
+
+### _3 AULA_
+
+- CRIAR UMA CONTA NO GITHUB
+- CRIAR DIRETÓRIO NO GITHUB
+- VÍNCULAR GITHUB NO GIT
+- CLONAR DIRETORIOS 
+- ADICIONAR ARQUIVOS NO GIT
+
+### _4 AULA_
+
+- EXERCÍCIO PRÁTICO 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
